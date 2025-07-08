@@ -1,0 +1,26 @@
+# node_modules папка
+node_modules/
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Вивід збірки
+dist/
+build/
+
+# Системні файли
+.DS_Store
+
+# Конфігурації редакторів
+.vscode/
+.idea/
+
+# Файли середовища (змінні оточення)
+.env
+.env.local
+.env.*.local
+
+# Кеші
+.cache/
